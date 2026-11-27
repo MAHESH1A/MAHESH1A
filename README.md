@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:maheshchintalapudi258@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mahesh-ch-7379542a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download%20PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 
@@ -36,7 +35,7 @@ B.Tech, ECE (2026)                                -                             
 
 ## 💼 Projects
 
-### 🔹 [RTL-to-GDSII Physical Design of a RISC-V SoC (picorv32a) using OpenLANE and Sky130](https://github.com/MAHESH1A/REPO-NAME)
+### 🔹 [RTL-to-GDSII Physical Design of a RISC-V SoC (picorv32a) using OpenLANE and Sky130](https://github.com/MAHESH1A/RTL-to-GDSII-Physical-Design-of-a-RISC-V-SoC-picorv32a-using-OpenLANE-and-Sky130)
 Full **RTL-to-GDSII flow** of the `picorv32a` RISC-V core on the **SkyWater 130nm PDK**, documented day by day with screenshots and results.
 `OpenLANE` `Yosys` `OpenROAD` `TritonCTS` `TritonRoute` `Magic` `ngspice` `OpenSTA`
 
